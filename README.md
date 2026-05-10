@@ -150,7 +150,7 @@ https://yourusername.github.io/repository-name/
 
 ## 📸 Preview
 
-![Portfolio Preview](db.png)
+![Portfolio Preview](home.png)
 
 ---
 
