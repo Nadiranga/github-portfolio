@@ -429,6 +429,7 @@ body:not(.user-is-tabbing) a:focus {
 @media (min-width: 1024px) {
     .header__text p {
         white-space: nowrap;
+        max-width: none;
     }
 }
 
