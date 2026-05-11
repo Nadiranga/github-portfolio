@@ -427,7 +427,7 @@ body:not(.user-is-tabbing) a:focus {
     font-size: var(--font-size-medium);
 }
 /* Only force a single line on screens wider than 1024px */
-@media (min-width: 1024px) {
+@media (min-width: 1496px) {
     .header__text p {
         white-space: nowrap;
         max-width: none;
